@@ -1,0 +1,16 @@
+insert ACGT
+display
+insert CAGT
+display
+insert AAAA
+insert A
+display
+insert TAC
+insert CG
+insert AA
+display
+insert TAG
+display
+search ACGT
+search A
+search TA
